@@ -13,7 +13,7 @@ function App() {
         >
           <img src="1.jpg" className="App-logo" alt="logo" />
         </a>
-        <div class="bottomright"><img src="qrcode.dib" alt="logo" /></div>
+        <div class="bottomright"><img src="qrcode.jpg" alt="logo" /></div>
       </header>
     </div>
   );
