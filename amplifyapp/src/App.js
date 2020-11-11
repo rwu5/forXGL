@@ -11,7 +11,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="1.jpg" className="App-logo" alt="logo" />
+          <img src="/img/1.jpg" className="App-logo" alt="logo" />
         </a>
         <div class="bottomright"><img src="qrcode.jpg" alt="logo" /></div>
       </header>
